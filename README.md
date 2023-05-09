@@ -1,5 +1,8 @@
 ![](https://github.com/ottter/ottter/blob/main/irises.jpg)
 
+- [My Gists](https://gist.github.com/ottter)
+- [My website](https://jamescr.dev/)
+
 <!--
 **ottter/ottter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
